@@ -1,4 +1,4 @@
-### :fire: Hi there 👋
+### :fire: Greetings 👋
 
 <!--
 **gnasini/gnasini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
