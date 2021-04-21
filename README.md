@@ -1,2 +1,2 @@
-### :fire: Hello, I'm Guido! 👋
+### :fire: Hi, I'm Guido! 👋
 
